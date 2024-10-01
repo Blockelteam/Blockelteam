@@ -17,7 +17,7 @@
 - [Volx App](https://blockelteam.itch.io/volx-library)
 
 ## أهم المنتسبين سابقا وحاليا في المجتمع
-Saad The Legend (CEO/Founder/Programming)
-Ghost (CO-Founder/Programming)
-Dispatch (Programming)
+Saad The Legend (CEO/Founder/Programming) .
+Ghost (CO-Founder/Programming) .
+Dispatch (Programming) .
 M75 (Programming)
